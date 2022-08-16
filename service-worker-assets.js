@@ -73,7 +73,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-783uOt0jgblQfP6Yz5TJeuW2xxtl6UHZQPngZtCz79U=",
+      "hash": "sha256-t5v2em1tLQD989JXMJWg9v4MNs6rCDzAeGDGt1Yadjo=",
       "url": "_framework\/dotnet.6.0.5.twi2e2dok4.js"
     },
     {
