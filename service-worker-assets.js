@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -61,7 +61,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-EQElKvirMyWii0T556N+9cCYRBPHIjyGBiXuSpyYJds=",
+      "hash": "sha256-uEMZyptwzmRbf3LUfqE0J\/pY6AZMQWx8Qhumrm+LIVg=",
       "url": "index.html"
     },
     {
@@ -1605,5 +1605,5 @@
       "url": "_content\/AntDesign\/less\/upload\/style\/rtl.less"
     }
   ],
-  "version": "elucogTB"
+  "version": "Lqs7ro\/l"
 };
