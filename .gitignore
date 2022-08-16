@@ -1,6 +1,0 @@
-.vs/
-packages/
-**/*.pubxml
-**/*.user
-**/bin/*
-**/obj/*
